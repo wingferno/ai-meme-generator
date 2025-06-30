@@ -7,9 +7,8 @@
 - [Installation](#-installation)
 - [Setup](#-setup)
 - [Usage](#-usage)
-- [Features](#-features)
 - [Requirements](#-requirements)
-- [Contributing](#-contributing)
+
 
 ## 🚀 Installation
 
